@@ -56,7 +56,7 @@ export default function Component() {
             <Sparkles className="w-8 h-8 text-purple-600" />
             AI 文生图工具
           </h1>
-          <p className="text-gray-600">输入描述，AI 为你生成精美图片</p>
+          <p className="text-gray-600">输入描述，AI 为您生成精美图片</p>
         </div>
 
         <Card className="mb-8">
